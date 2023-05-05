@@ -3,3 +3,7 @@ body {
     background-color: bisque;
 
 }
+header {
+    display: flex;
+    justify-content: space-between;
+}
