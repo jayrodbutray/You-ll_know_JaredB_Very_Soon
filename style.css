@@ -2,6 +2,9 @@
 header {
     text-align: center;
 }
+body {
+    background-color: antiquewhite;
+}
 .topnavigation {
     color: blue;
 
@@ -10,9 +13,16 @@ header {
     margin: 0 20px;
 }
 .profile  {
-    border: 1px solid black;
+    border: 1px solid black
 
-
+}
+.profile h3 {
+    text-align: center;
+    color: red
+}
+.aboutme {
+    display:flex;
+    justify-content: space-around;
 }
 .profile p{
 color: black;
@@ -25,13 +35,18 @@ color: black;
     width: 180px;
     height: 180px;
 }
+#Spiderman {
+    width: 175px;
+    height: 175px;
+
+}
 #mechanic {
-    width: 200px;
-    height: 200px;  
+    width: 210px;
+    height: 210px;  
 }
 #coding {
-    width: 200px;
-    height: 200px;
+    width: 210px;
+    height: 210px;
 }
 #codesample {
     width: 200px;
