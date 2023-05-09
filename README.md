@@ -4,10 +4,10 @@
 
 ### Credits go out to UC Berkley for their added help including and not limited to Robbert and Michael. Also, my brother in law, Heber Cooke, for opening my mind to CSS selectors and their use for better page deployment.
 
-[Screenshot for project]()
+[Screenshot for project](./assets/ScreenshotJaredbuttreypage.png)
 
-[Link to github repository](https://github.com/jayrodbutray/challenge_1_webrevamp).
+[Link to github repository](https://github.com/jayrodbutray/You-ll_know_JaredB_Very_Soon).
 
-[Link to Github page](https://jayrodbutray.github.io/challenge_1_webrevamp) 
+[Link to Github page](https://jayrodbutray.github.io/You-ll_know_JaredB_Very_Soon/) 
 
 
