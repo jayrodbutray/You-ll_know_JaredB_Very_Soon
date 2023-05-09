@@ -8,6 +8,6 @@
 
 [Link to github repository](https://github.com/jayrodbutray/You-ll_know_JaredB_Very_Soon).
 
-[Link to Github page](https://jayrodbutray.github.io/You-ll_know_JaredB_Very_Soon) 
+[Link to Github page](https://jayrodbutray.github.io/You-ll_know_JaredB_Very_Soon)
 
 
