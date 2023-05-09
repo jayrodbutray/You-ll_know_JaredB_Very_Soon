@@ -4,21 +4,41 @@ header {
 }
 .topnavigation {
     color: blue;
+
+}
+.topnavigation a {
+    margin: 0 20px;
 }
 .profile  {
     border: 1px solid black;
 
 }
+.profile p{
+color: black;
+}
+.pictures {
+    display: flex;
+    justify-content: space-around;
+}
 #Jaredspic {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
 }
 #mechanic {
     width: 200px;
     height: 200px;  
 }
+#coding {
+    width: 200px;
+    height: 200px;
+}
+#codesample {
+    width: 200px;
+    height: 200px;
+}
 .jobinfo {
     border: 1px solid black;
+
 }
 section {
     text-align: center;
@@ -28,12 +48,24 @@ footer {
     text-align: center;
     margin: 10px;
     padding: 10px;
+    color: red;
+    background-color: blue;
 }
 @media only screen and (min-width:300px) and (max-width:480px) {
 #Jaredspic {
     height: 150px;   
+    width: 100px;
 }
 #mechanic {
     height: 150px;
+    width: 100px;
+}
+#coding {
+height: 150px;
+width: 100px;
+}
+#codesample {
+    height: 150px;
+    width: 100px;
 }
  }  
