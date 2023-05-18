@@ -4,7 +4,7 @@
 
 ### Credits go out to UC Berkley for their added help including and not limited to Robbert and Michael. Also, my brother in law, Heber Cooke, for opening my mind to CSS selectors and their use for better page deployment.
 
-[Screenshot for project](./assets/youllknowjaredsoonfinalscreenshot.png)
+![Screenshot for project](./assets/youllknowjaredsoonfinalscreenshot.png)
 
 [Link to github repository](https://github.com/jayrodbutray/You-ll_know_JaredB_Very_Soon).
 
