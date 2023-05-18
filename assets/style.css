@@ -75,7 +75,7 @@ footer {
 }
 @media only screen and (min-width:300px) and (max-width:480px) {
 #Jaredspic {
-    height: 150px;   
+    height: 125px;   
     width: 100px;
 }
 #mechanic {
@@ -83,15 +83,15 @@ footer {
     width: 100px;
 }
 #coding {
-height: 150px;
+height: 125px;
 width: 100px;
 }
 #codesample {
-    height: 150px;
+    height: 125px;
     width: 100px;
 }
 #Spiderman {
-    height: 150px;
+    height: 125px;
     width: 100px;
 }
  }  
