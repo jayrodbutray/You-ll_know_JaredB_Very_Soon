@@ -61,7 +61,16 @@ color: black;
 #raceclub {
     margin-top: 20px;
     margin-bottom: 50px;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
 }
+
+#raceclub img {
+    width: 100%;
+    height: auto;
+}
+
 #horsecreator {
     margin-top: 50px;
 }
