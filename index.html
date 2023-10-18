@@ -7,6 +7,21 @@
       </head>
 
 <body>
+<script>
+  var ageElement = document.getElementById("age");
+
+  // Your birthdate timestamp in milliseconds (replace this with your actual birthdate)
+  var birthdateTimestamp = new Date("1982-08-15").getTime();
+
+  // Calculate your age
+  var currentDate = new Date();
+  var ageInMilliseconds = currentDate - birthdateTimestamp;
+  var ageInYears = Math.floor(ageInMilliseconds / (1000 * 60 * 60 * 24 * 365.25)); // Adjust for leap years
+
+  // Update the content of the age element
+  ageElement.textContent = "I am " + ageInYears + " years old!";
+</script>
+
   <header>
     <h1>THE Jared Buttrey</h1>
     </header>
@@ -25,9 +40,8 @@
           <div>
           <img id="Jaredspic" src="assets/jaredspic.jpg" alt="jaredspic">
           <br>
-          <p>
-            I am 40  years old! I love ALL sports and staying very active!
-          </p>
+          <p id="age">I am 41 years old!</p>
+
           </div>
       <div class="measspiderman">
           <img id="Spiderman" src="./assets/measspiderman.jpg" alt="jaredisspiderman">
