@@ -129,6 +129,10 @@ width: 100px;
     height: 125px;
     width: 100px;
 }
+.resume iframe {
+    max-width: 100%;
+}
+
  }  
 
  
